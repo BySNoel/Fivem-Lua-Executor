@@ -1,0 +1,5 @@
+Start Fivem
+Open Executor.exe
+Wait for Executor to Inject
+Open Executor in FiveM with Key=Insert
+Copy any Premium Lua Menu and paste it into the Executor and press Load
